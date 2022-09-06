@@ -1,0 +1,5 @@
+*           test=auto
+* .gitattributes    text
+* .gitignore        text
+* .md               text diff= markdown
+   
